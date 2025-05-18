@@ -1,0 +1,11 @@
+README.md
+setup.py
+app/__init__.py
+app/main.py
+test/__init__.py
+test/test_main.py
+weather_cli.egg-info/PKG-INFO
+weather_cli.egg-info/SOURCES.txt
+weather_cli.egg-info/dependency_links.txt
+weather_cli.egg-info/requires.txt
+weather_cli.egg-info/top_level.txt
